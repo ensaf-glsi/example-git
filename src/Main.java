@@ -1,3 +1,4 @@
+import model.Client;
 import model.Personne;
 
 public class Main {
@@ -7,4 +8,8 @@ public class Main {
         System.out.println(p);
     }
     
+    void fct2() {
+        System.out.println(new Personne());
+        System.out.println(new Client());
+    }
 }
