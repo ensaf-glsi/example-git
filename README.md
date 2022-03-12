@@ -14,3 +14,15 @@
 
 
 ## récupération d'un projet git
+
+git clone git@github.com:ensaf-glsi/example-git.git [un autre nom]
+
+## modification et envoi vers repo distant
+
+git add ...
+git commit - m "un commentaire "
+
+git pull
+
+git push
+
